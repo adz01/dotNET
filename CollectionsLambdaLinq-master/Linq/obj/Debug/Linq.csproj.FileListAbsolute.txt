@@ -1,0 +1,6 @@
+C:\Users\GAMAN\Documents\Visual Studio 2015\Projects\CollectionsLambdaLinq-master\Linq\bin\Debug\Linq.exe.config
+C:\Users\GAMAN\Documents\Visual Studio 2015\Projects\CollectionsLambdaLinq-master\Linq\bin\Debug\Linq.exe
+C:\Users\GAMAN\Documents\Visual Studio 2015\Projects\CollectionsLambdaLinq-master\Linq\bin\Debug\Linq.pdb
+C:\Users\GAMAN\Documents\Visual Studio 2015\Projects\CollectionsLambdaLinq-master\Linq\obj\Debug\Linq.csprojResolveAssemblyReference.cache
+C:\Users\GAMAN\Documents\Visual Studio 2015\Projects\CollectionsLambdaLinq-master\Linq\obj\Debug\Linq.exe
+C:\Users\GAMAN\Documents\Visual Studio 2015\Projects\CollectionsLambdaLinq-master\Linq\obj\Debug\Linq.pdb
